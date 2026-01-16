@@ -1,4 +1,4 @@
-# Auto-Crop-And-Limb-Remove-Image-Processing
+# X-ray Image Processing for Torso Cropping and Rib Removal
 Final Project of Image Processing Course
 
 # Objective
