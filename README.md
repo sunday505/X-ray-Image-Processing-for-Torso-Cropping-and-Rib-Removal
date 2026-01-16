@@ -25,6 +25,10 @@ After processing, the output image must be saved as a .jpg file.
 
 This project is implemented using Python and OpenCV for image processing. The program is designed to automatically crop the monkey X-ray image to the torso region and reduce rib structures while preserving major anatomical components.
 
+I implemented this project on Google Colab
+This is my project link
+https://colab.research.google.com/drive/1bI9EKPolK6TqVAlsu6lRC42Cl-Czleu-?usp=sharing
+
 # Libraries Used
 
 OpenCV (cv2) – image processing operations
